@@ -3,7 +3,7 @@
 
 # DEMO
 
-![]()
+![](Texas_game.png)
 
 The photo above shows the game in action. This game follows the rules of Texas Home Dem.
 
@@ -25,7 +25,7 @@ Also, since only numbers can be input, we set it to return an error if a number 
 
 Start the command prompt and change directory (cd) to the Texas_Hold_em.c folder in ExecuteFolder (executable file). Then enter "Texas_Hold_em.exe" to run it.
 
-![]()
+![](Texas_command.png)
 
 # Note
 
