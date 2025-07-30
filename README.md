@@ -34,7 +34,7 @@ Unnecessary line breaks can cause errors.
 # Author
 
 * yukihotta
-* yuuki2628@outlook.jp
+* kenkyujiro0229@outlook.jp
 
 # License
 
