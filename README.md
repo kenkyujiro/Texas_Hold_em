@@ -33,7 +33,7 @@ Unnecessary line breaks can cause errors.
 
 # Author
 
-* yukihotta
+* kenkyujiro
 * kenkyujiro0229@outlook.jp
 
 # License
